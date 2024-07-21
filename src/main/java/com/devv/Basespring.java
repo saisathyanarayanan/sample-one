@@ -11,6 +11,8 @@ public class Basespring {
 		System.out.println(z.getlapname());
 		System.out.println(z.getlapprice());
 		System.out.println(z.getlall());
+		
+		System.out.println("sathya says helllooo");
 	}
 
 }
