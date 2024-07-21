@@ -12,7 +12,9 @@ public class Basespring {
 		System.out.println(z.getlapprice());
 		System.out.println(z.getlall());
 		
+
 		System.out.println("helllo this is mani");
+
 	}
 
 }
